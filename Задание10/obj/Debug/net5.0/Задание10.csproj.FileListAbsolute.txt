@@ -1,0 +1,16 @@
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.exe
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.deps.json
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.runtimeconfig.json
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.runtimeconfig.dev.json
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.dll
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\ref\Задание10.dll
+C:\Users\WitherG0\source\repos\Laba1\Задание10\bin\Debug\net5.0\Задание10.pdb
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.AssemblyInfoInputs.cache
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.AssemblyInfo.cs
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.csproj.CoreCompileInputs.cache
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.dll
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\ref\Задание10.dll
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.pdb
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.genruntimeconfig.cache
+C:\Users\WitherG0\source\repos\Laba1\Задание10\obj\Debug\net5.0\Задание10.csproj.AssemblyReference.cache

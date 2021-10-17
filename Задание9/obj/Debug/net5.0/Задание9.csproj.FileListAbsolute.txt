@@ -1,0 +1,16 @@
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.exe
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.deps.json
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.runtimeconfig.json
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.runtimeconfig.dev.json
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.dll
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\ref\Задание9.dll
+C:\Users\WitherG0\source\repos\Laba1\Laba1\bin\Debug\net5.0\Задание9.pdb
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.csproj.AssemblyReference.cache
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.AssemblyInfoInputs.cache
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.AssemblyInfo.cs
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.csproj.CoreCompileInputs.cache
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.dll
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\ref\Задание9.dll
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.pdb
+C:\Users\WitherG0\source\repos\Laba1\Laba1\obj\Debug\net5.0\Задание9.genruntimeconfig.cache
