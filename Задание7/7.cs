@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Задание7
 {
@@ -10,12 +10,13 @@ namespace Задание7
             string i, rev;
             Console.WriteLine("Введите трехзначное число");
             a = int.Parse(Console.ReadLine());
-            if (a>999 ^ a<100)
-            {do
-             {
-                Console.WriteLine("Число не трёхзначное, попробуйте еще раз");
-                a = int.Parse(Console.ReadLine());
-             }while (a>999 ^ a<100);
+            if (a > 999 || a < 100)
+            {
+                do
+                {
+                    Console.WriteLine("Число не трёхзначное, попробуйте еще раз");
+                    a = int.Parse(Console.ReadLine());
+                } while (a > 999 || a < 100);
             }
             i = a.ToString();
             char[] inputarray = i.ToCharArray();
